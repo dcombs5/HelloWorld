@@ -5,5 +5,9 @@ public class GoodStuff {
 	{
 		
 	}
+	
+	public void badStuff(){
+		
+	}
 
 }
